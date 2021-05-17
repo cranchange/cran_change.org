@@ -2,9 +2,9 @@ We, the undersigned R users, R package developers, and R community members stand
 
 In particular we believe two practices are harmful:
 
-Archiving packages for a small number of test failures on proprietary platforms harms both contributor diversity and code test coverage. For example:
+Archiving packages for a small number of test failures on proprietary platforms harms both contributor diversity and package test coverage. For example:
 
-  * Apple hardware is expensive to obtain, which makes finding macOS environments to test against challenging.
+  * Apple hardware is expensive to obtain, which makes acessing macOS test environments challenging for some contributors.
   * Recently a package with 100% test coverage and over 2000 tests was archived (at short notice) when 2 of those tests began failing on one specific platform. This practice discourages developers from extensively testing their packages on CRAN which in may degrade the package ecosystem.
 
 Archiving packages with little to no notice discriminates against contributors with less time available on short notice. This harms contributor diversity. Under the current practice there are many categories of contributor who may find it difficult to keep their contributions on CRAN, for example:
