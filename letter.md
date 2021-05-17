@@ -33,7 +33,7 @@ The first reaction to our proposal is likely to be: "We're just volunteers, we d
 
 ## Supporting this petitiion
 
-With this action we wish to advocate for a respectful dialog about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
+With this action we wish to advocate for a respectful dialogue about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
 
 1. share this petition with your networks
 2. withold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
