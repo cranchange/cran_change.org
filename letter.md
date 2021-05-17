@@ -44,5 +44,5 @@ With this action we wish to advocate for a respectful dialogue about reforming t
 
 1. share this petition with your networks
 2. withhold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
-3. configure alternative package repositories where you trust the developers e.g. https://r-universe.dev/organizations/ for rOpensci, RStudio et.al packages
+3. configure alternative package repositories where you trust the developers e.g. https://r-universe.dev for rOpensci, RStudio et. al. packages
 4. refer to the CRAN team as "CRAN administrators" rather than their self-assigned label of "volunteers". The former label befits their role, the latter resists accountability.
