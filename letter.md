@@ -6,10 +6,9 @@ If left unchecked we believe this pattern will undermine CRAN's position as a co
 
 In particular we believe two practices are harmful:
 
-**Archiving packages for a small number of test failures on proprietary platforms** harms both contributor diversity and package test coverage. For example:
+**Archiving packages for a small number of test failures on proprietary platforms** harms package test coverage. For example:
 
-  * Apple hardware is expensive to obtain, which makes acessing macOS test environments challenging for some contributors.
-  * Recently a package with 100% test coverage and over 2000 tests was archived (at short notice** when 2 of those tests began failing on one specific platform.
+  * Recently a package with 100% test coverage and over 2000 tests was archived when 2 of those tests began failing on an expensive proprietary platform. The failure could not be reproduced on RHub.
   
 This practice discourages developers from extensively testing their packages on CRAN, which devalues the reverse dependency checking CRAN provides.
 
@@ -19,7 +18,9 @@ This practice discourages developers from extensively testing their packages on 
   * Contributors with families or others who depend on them
   * Contributors who are unwell or on leave
 
-Aside from the nature of these actions, the tone taken by CRAN administrators in their communications with contributors is at times abrupt and unsympathetic. This routinely takes new contributors by surprise since it is out of step with the norms of the larger R community. Discouraging new contributors threatens CRAN's 'comprehensive' aspect.
+Aside from the nature of these actions, the tone taken by CRAN administrators in their communications with contributors is at times abrupt and unsympathetic. This routinely takes new contributors by surprise since it is out of step with the norms of the larger R community. 
+
+Contributors are a precious resource and discouraging them threatens CRAN's 'comprehensive' aspect.
 
 The fact that there is currently no avenue by which we, R community members, can engage CRAN administrators on this topic points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
 
