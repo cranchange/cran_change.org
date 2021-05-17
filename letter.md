@@ -2,7 +2,7 @@ We, the undersigned R users, R package developers, and R community members stand
 
 A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has all but exhausted our trust that our community's central package archive is being managed sustainably.
 
-If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many to question whether submitting to CRAN is worthwhile, and wonder whether tests deployed on CRAN are truly assets or liabilities.
+If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many to question whether submitting to CRAN is worthwhile, and wonder if tests deployed on CRAN are truly assets or liabilities.
 
 In particular we believe two practices are harmful:
 
