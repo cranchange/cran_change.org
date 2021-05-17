@@ -27,7 +27,7 @@ The fact that there is currently no avenue by which we, R community members, can
 We therefore propose the following reforms to CRAN to ensure a robust, comprehensive, and diverse R package ecosystem:
 
 1. Consult with the community to create a policy on archival. For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access
-2. Standardise build environments and publish configuration so that developers can test against CRAN environments, e.g. via RHub
+2. Standardise build environments and publish configuration so that contributors can test against CRAN environments, e.g. via RHub
 3. Consult with the community to create a policy on editorialisation that can be consistently applied. Do we want CRAN rejecting packages based on qualitative assessments of content? Detailed criteria must be published if so. For example: https://devguide.ropensci.org/policies.html#policies
 4. If CRAN modifies a package's source code for any reason this must be made clear with an onLoad message, and version number bump
 5. Publish a policy on resubmission intervals that can be consistently applied, and cease punitive temporary submission bans for contributors with repeated rejections
