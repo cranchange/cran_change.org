@@ -1,6 +1,6 @@
 We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem.
 
-A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has all but exhausted our trust that our community's central package archive is being managed sustainably.
+A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has diminished our trust that our community's central package archive is being managed sustainably.
 
 If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many to question whether submitting to CRAN is worthwhile, and wonder if tests deployed on CRAN are truly assets or liabilities.
 
@@ -41,7 +41,7 @@ We appreciate a lot of reform is being sought from what is a famously small team
 
 ## Supporting this petition
 
-With this action we wish to advocate for a respectful dialogue about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
+With this action we wish to advocate for a respectful dialogue about reforming the administration of CRAN's package ecosystem. We do not wish to disparage the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
 
 1. share this petition with your networks
 2. withhold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
