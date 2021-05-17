@@ -1,4 +1,4 @@
-We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem and the R community given apparent increases in maladmistrative practices by the CRAN adminstrators.
+We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem and the R community given increasingly unpredictable behaviour by CRAN adminstrators.
 
 In parituclar we believe two practices are harmful:
 
@@ -33,7 +33,7 @@ The first reaction to our proposal is likely to be: "We're just volunteers, we d
 
 ## Supporting this petitiion
 
-With this action we wish to advoate for a respectful dialog about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point that by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
+With this action we wish to advocate for a respectful dialog about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point that by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
 
 1. share this petition with your networks
 2. withold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
