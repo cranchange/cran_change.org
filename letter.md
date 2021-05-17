@@ -1,4 +1,4 @@
-We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem and the R community given increasingly unpredictable behaviour by CRAN adminstrators.
+We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem and the R community given increasingly unpredictable behaviour by CRAN administrators.
 
 In particular we believe two practices are harmful:
 
