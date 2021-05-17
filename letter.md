@@ -36,6 +36,6 @@ The first reaction to our proposal is likely to be: "We're just volunteers, we d
 With this action we wish to advocate for a respectful dialogue about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
 
 1. share this petition with your networks
-2. withold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
+2. withhold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
 3. configure alternative package repositories where you trust the developers e.g. https://r-universe.dev/organizations/ for rOpensci, RStudio et.al packages
 4. refer to the CRAN team as "CRAN Administrators" rather than their self-assigned label of "volunteers". The former label befits their role, the latter resists accountability.
