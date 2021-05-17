@@ -1,22 +1,29 @@
-We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem and the R community given increasingly unpredictable behaviour by CRAN administrators.
+We, the undersigned R users, R package developers, and R community members stand unified in our concern for the future of the R package ecosystem.
+
+A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has all but exhausted our trust that our community's central package archive is being managed sustainably.
+
+If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many to question whether submitting to CRAN is worthwhile, and wonder whether tests deployed on CRAN are truly assets or liabilities.
 
 In particular we believe two practices are harmful:
 
-Archiving packages for a small number of test failures on proprietary platforms harms both contributor diversity and package test coverage. For example:
+**Archiving packages for a small number of test failures on proprietary platforms** harms both contributor diversity and package test coverage. For example:
 
   * Apple hardware is expensive to obtain, which makes acessing macOS test environments challenging for some contributors.
-  * Recently a package with 100% test coverage and over 2000 tests was archived (at short notice) when 2 of those tests began failing on one specific platform. This practice discourages developers from extensively testing their packages on CRAN which in may degrade the package ecosystem.
+  * Recently a package with 100% test coverage and over 2000 tests was archived (at short notice** when 2 of those tests began failing on one specific platform.
+  
+This practice discourages developers from extensively testing their packages on CRAN, which devalues the reverse dependency checking CRAN provides.
 
-Archiving packages with little to no notice discriminates against contributors with less time available on short notice. This harms contributor diversity. Under the current practice there are many categories of contributor who may find it difficult to keep their contributions on CRAN, for example:
+**Archiving packages with little or no warning** discriminates against contributors with less time available on short notice. Under the current practice there are many categories of contributor who may find it difficult to keep their contributions on CRAN, for example:
 
   * Contributors who have no paid time to work on open source
   * Contributors with families or others who depend on them
-  * Contributors who are unwell
-  * Contributors on leave
+  * Contributors who are unwell or on leave
+
+Aside from the nature of these actions, the tone taken by CRAN administrators in their communications with contributors is at times abrupt and unsympathetic. This routinely takes new contributors by surprise since it is out of step with the norms of the larger R community. Discouraging new contributors threatens CRAN's 'comprehensive' aspect.
 
 The fact that there is currently no avenue by which we, R community members, can engage CRAN administrators on this topic points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
 
-We therefore propose the following reforms to CRAN to ensure the longevity and stability of the R package ecosystem:
+We therefore propose the following reforms to CRAN to ensure a robust, comprehensive, and diverse R package ecosystem:
 
 1. Consult with the community to create a policy on archival. For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access
 2. Standardise build environments and publish configuration so that developers can test against CRAN environments, e.g. via RHub
@@ -29,7 +36,7 @@ We therefore propose the following reforms to CRAN to ensure the longevity and s
 9. Publish a succession plan for the CRAN administrators nearing retirement
 10. Publish an account of resources CRAN receives, detailing how they are spent
 
-The first reaction to our proposal is likely to be: "We're just volunteers, we don't have the resources to do this". A counter argument to that is that being under-resourced does not excuse problems with CRAN administrative practices, rather it provides further evidence that reform is required. 
+We appreciate a lot of reform is being sought from what is a famously small team of administrators. However, being under-resourced does not mitigate the shortcomings of CRAN's current practices, rather it is an argument in itself that reform is needed so that CRAN may attract the resources to perform its valuable role sustainably.
 
 ## Supporting this petition
 
