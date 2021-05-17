@@ -29,7 +29,7 @@ We therefore propose the following reforms to CRAN to ensure the longevity and s
 9. Publish a succession plan for the CRAN administrators nearing retirement
 10. Publish an account of resources CRAN receives, detailing how they are spent
 
-The first reaction to our proposal is likely to be: "We're just volunteers, we don't have the resources to do this". We would counter that being under-resourced does not excuse problems with CRAN administrative practices, rather it provides further evidence that reform is required. 
+The first reaction to our proposal is likely to be: "We're just volunteers, we don't have the resources to do this". A counter argument to that is that being under-resourced does not excuse problems with CRAN administrative practices, rather it provides further evidence that reform is required. 
 
 ## Supporting this petitiion
 
