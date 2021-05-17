@@ -12,9 +12,9 @@ Archiving packages with little to no notice discriminates against contributors w
   * Contributors who have no paid time to work on open source
   * Contributors with families or others who depend on them
   * Contributors who are unwell
-  * Contributors taking leave
+  * Contributors on leave
 
-The fact that there is currently no avenue by which we, R community members, can engage CRAN Administrators on this topic points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
+The fact that there is currently no avenue by which we, R community members, can engage CRAN administrators on this topic points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
 
 We therefore propose the following reforms to CRAN to ensure the longevity and stability of the R package ecosystem:
 
@@ -31,11 +31,11 @@ We therefore propose the following reforms to CRAN to ensure the longevity and s
 
 The first reaction to our proposal is likely to be: "We're just volunteers, we don't have the resources to do this". A counter argument to that is that being under-resourced does not excuse problems with CRAN administrative practices, rather it provides further evidence that reform is required. 
 
-## Supporting this petitiion
+## Supporting this petition
 
 With this action we wish to advocate for a respectful dialogue about reforming the adminstration of CRAN's package ecosystem. We do not wish to diminish the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
 
 1. share this petition with your networks
 2. withhold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README <BADGE URL>
 3. configure alternative package repositories where you trust the developers e.g. https://r-universe.dev/organizations/ for rOpensci, RStudio et.al packages
-4. refer to the CRAN team as "CRAN Administrators" rather than their self-assigned label of "volunteers". The former label befits their role, the latter resists accountability.
+4. refer to the CRAN team as "CRAN administrators" rather than their self-assigned label of "volunteers". The former label befits their role, the latter resists accountability.
