@@ -40,7 +40,7 @@ We therefore propose the following reforms to CRAN to ensure a robust, comprehen
 
 We appreciate a lot of reform is being sought from what is a famously small team of administrators. However, being under-resourced does not mitigate the shortcomings of CRAN's current practices, rather it is an argument in itself that reform is needed so that CRAN may attract the resources to perform its valuable role sustainably.
 
-Finally, we wish to acknowledge the dedication of the CRAN administrators and thank them for the foundational piece of community architecture that has made the way we work together with R possible. If the reform process creates opportunities for the community to make contributions to CRAN in return, there are many signed here who would pleased to do so.
+Finally, we wish to acknowledge the dedication of the CRAN administrators and thank them for the foundational piece of community architecture that has made the way we work together with R possible. If the reform process creates opportunities for the community to share our skills and resources with CRAN in return, there are many signed here who would pleased to do so.
 
 ## Supporting this petition
 
