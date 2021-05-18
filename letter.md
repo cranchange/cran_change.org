@@ -42,7 +42,6 @@ We appreciate a lot of reform is being sought from what is a famously small team
 
 Finally, we wish to acknowledge the dedication of the CRAN administrators and thank them for the foundational piece of community architecture that has made the way we work together with R possible. If the reform process creates opportunities for the community to make contributions to CRAN in return, there are many signed here who would pleased to do so.
 
-
 ## Supporting this petition
 
 With this action we wish to advocate for a respectful dialogue about reforming the administration of CRAN's package ecosystem. We do not wish to disparage the contributions that have been provided to this point by CRAN administrators. There are several steps R commnity members can take to show their support for these reforms:
