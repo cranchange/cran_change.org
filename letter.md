@@ -30,7 +30,8 @@ We therefore propose the following reforms to CRAN to ensure a robust, comprehen
 2. Standardise build environments and publish configuration so that contributors can test against CRAN environments, e.g. via RHub
 3. Consult with the community to create a policy on editorialisation that can be consistently applied. Do we want CRAN rejecting packages based on qualitative assessments of content? Detailed criteria must be published if so. For example: https://devguide.ropensci.org/policies.html#policies
 4. If CRAN modifies a package's source code for any reason this must be made clear with an onLoad message, and version number bump
-5. Publish a policy on resubmission intervals that can be consistently applied, and cease punitive temporary submission bans for contributors with repeated rejections or test failures
+5. Publish a policy on resubmission intervals that can be consistently applied 
+6. Cease punitive temporary submission bans for contributors with repeated rejections or test failures
 6. Establish a governance model including a process by which community members can propose changes to CRAN policies or processes. For example the PEP system in Python
 7. Establish a code of conduct for the behaviour of CRAN administrators and contributors in their dealings
 8. Publish minutes of CRAN governence meetings
