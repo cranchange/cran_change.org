@@ -4,7 +4,12 @@ A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN admini
 
 If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many of us to question whether submitting to CRAN is worthwhile, and wonder if tests deployed on CRAN are truly assets or liabilities.
 
-In particular we believe two practices are harmful:
+In particular we believe three practices are harmful:
+
+**Rejecting submissions based on undocumented criteria, or inconsistently applied criteria** makes CRAN administrators appear unreliable, and erodes willingness to contribute. For example:
+
+  * There seems to have been an undocumented change in stance toward examples, with many contributors reporting CRAN administrators are rejecting submissions citing not enough examples whilst also refusing to accept any examples with `\dontrun{}` and `\donttest{}`. This unofficial policy is adversely affecting the design of package error mechanisms. 
+  * On multiple occasions packages premised around colour palettes have been rejected due to triviality only to have other packages with almost identical premises, and of similar complexity be accepted shortly after. 
 
 **Archiving packages for a small number of test failures on proprietary platforms** harms package test coverage. For example:
 
@@ -20,9 +25,9 @@ This practice discourages extensive testing on CRAN, and has already lead develo
 
 Aside from the nature of these actions, the tone taken by CRAN administrators in their communications with contributors is at times abrupt and unsympathetic. This routinely takes new contributors by surprise since it is out of step with the norms of the larger R community. 
 
-Contributors are a precious resource and discouraging them threatens CRAN's 'comprehensive' aspect.
+Contributors are a precious resource and discouraging them threatens CRAN's 'comprehensive** aspect.
 
-The fact that there is currently no avenue by which we, R community members, can engage CRAN administrators on this topic points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
+The fact that there is currently no avenue by which we, R community members, can engage CRAN administrators on these topics points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
 
 We therefore propose the following reforms to CRAN to ensure a robust, comprehensive, and diverse R package ecosystem:
 
