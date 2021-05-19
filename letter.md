@@ -36,7 +36,7 @@ We therefore propose the following reforms to CRAN to ensure a robust, comprehen
 8. Establish a code of conduct for the behaviour of CRAN administrators and contributors in their dealings
 9. Publish minutes of CRAN governence meetings
 10. Publish a succession plan for the CRAN administrators nearing retirement
-11. Publish a breakdown of the resources CRAN needs to function properly 
+11. Establish a process whereby CRAN notifies the R community of shortfalls in resources which could be met by community contributions 
 
 We appreciate a lot of reform is being sought from what is a famously small team of administrators. However, being under-resourced does not mitigate the shortcomings of CRAN's current practices, rather it is an argument in itself that reform is needed so that CRAN may attract the resources to perform its valuable role sustainably.
 
