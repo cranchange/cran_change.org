@@ -6,10 +6,12 @@ If left unchecked we believe this pattern will undermine CRAN's position as a co
 
 In particular we believe three practices are harmful:
 
-**Rejecting submissions based on undocumented criteria, or inconsistently applied criteria** makes CRAN administrators appear unreliable, and erodes willingness to contribute. For example:
+**Rejecting submissions based on undocumented criteria, or inconsistently applied criteria** makes it difficult for contributors to predict if their submissions will be accepted without issues, and so erodes willingness to contribute. For example:
 
-  * There seems to have been an undocumented change in stance toward examples, with many contributors reporting CRAN administrators are rejecting submissions citing not enough examples whilst also refusing to accept any examples with `\dontrun{}` and `\donttest{}`. This unofficial policy is adversely affecting the design of package error mechanisms. 
+  * There seems to have been an undocumented change in stance toward examples, with many contributors reporting CRAN administrators are rejecting submissions citing not enough examples whilst also refusing to accept any examples with `\dontrun{}` and `\donttest{}`. These blocks have been used liberally in historical submissions. 
   * On multiple occasions packages premised around colour palettes have been rejected due to triviality only to have other packages with almost identical premises, and of similar complexity be accepted shortly after. 
+  
+These types of experiences are felt heavily by new contributors who are not aware of hidden criteria they need to meet or the "luck" element of getting a package accepted smoothly.
 
 **Archiving packages for a small number of test failures on proprietary platforms** harms package test coverage. For example:
 
