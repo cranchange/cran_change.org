@@ -1,12 +1,10 @@
 There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive and technical feat from which great public good has been derived. 
 
-We want to acknowledging the sustained dedication of our CRAN administrators, and thank them for the foundational piece of infrastructure they have built which has made the way we work together with R possible.
-
-To continue providing this great service this letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community.
+To continue providing this great service this letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community. 
 
 Yet in the spirit of empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in a call to reform CRAN practices that are damaging the R package ecosystem.
 
-A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has shaken our trust that our community's central package archive is being managed sustainably.
+We want to acknowledge the sustained dedication of our CRAN administrators, and thank them for the foundational piece of infrastructure they have built which has made the way we work together with R possible. However, a pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has shaken our trust that our community's central package archive is being managed sustainably.
 
 If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many of us to question whether submitting to CRAN is worthwhile, and wonder if tests deployed on CRAN are truly assets or liabilities.
 
