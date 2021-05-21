@@ -4,7 +4,7 @@ So in the spirit of empathy and fairness we begin by acknowledging the sustained
 
 There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive technical feat from which great public good has been derived.
 
-Yet is also with empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in protest against actions that are damaging the R package ecosystem.
+Yet it is also with empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in protest against actions that are damaging the R package ecosystem.
 
 A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has shaken our trust that our community's central package archive is being managed sustainably.
 
