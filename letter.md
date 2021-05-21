@@ -1,10 +1,10 @@
-This letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community.
+There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive and technical feat from which great public good has been derived. 
 
-So in the spirit of empathy and fairness we begin by acknowledging the sustained dedication of our CRAN administrators, and thank them for the foundational piece of infrastructure they have built which has made the way we work together with R possible.
+We want to acknowledging the sustained dedication of our CRAN administrators, and thank them for the foundational piece of infrastructure they have built which has made the way we work together with R possible.
 
-There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive technical feat from which great public good has been derived.
+To continue providing this great service this letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community.
 
-Yet is also with empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in protest against actions that are damaging the R package ecosystem.
+Yet in the spirit of empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in protest against actions that are damaging the R package ecosystem.
 
 A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has shaken our trust that our community's central package archive is being managed sustainably.
 
