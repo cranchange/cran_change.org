@@ -61,6 +61,6 @@ In addition to signing the petition there are several steps R community members 
 
 1. Share this petition with your networks
 2. Withhold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README [BADGE URL] 
-3. Configure alternative package archives where you trust the developers e.g. https://r-universe.dev for rOpensci, RStudio et. al. packages
-4. Contribute your own packages to alternative repositories e.g. https://r-universe.dev and advertise these ways to install them in your README
+3. Configure alternative package repositories where you trust the developers e.g. https://r-universe.dev for rOpensci, RStudio et. al. packages
+4. Contribute your own packages to alternative repositories and advertise these ways to install them in your README
 4. refer to the CRAN team as "CRAN administrators" rather than their self-assigned label of "volunteers". This label describes a role which we can clarify the expectations of as opposed to a remuneration status.
