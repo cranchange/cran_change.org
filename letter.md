@@ -25,7 +25,7 @@ This practice wastes the time of both CRAN administrators and contributors. We b
   
 This practice discourages extensive testing on CRAN, and has already lead developers among us to limit functionality exposed to CRAN to low-risk subsets. The degradation of the reverse dependency checking system in this way weakens both packages and the R language itself, since package checks are used to validate core changes.
 
-**Archiving packages with little or no warning** discriminates against contributors with less time available on short notice. Typical periods attached to the threat of archival seem to range in zero to six weeks. Under this practice there are many categories of contributor who will find it difficult to keep their contributions on CRAN, for example:
+**Archiving packages with little or no warning** discriminates against contributors with less time available on short notice. Typical periods attached to the threat of archival seem to range in zero to six weeks. Under this practice there are many categories of contributor who will find it difficult to keep their work on CRAN, for example:
 
   * Contributors who have no paid time to work on open source
   * Contributors with families or others who depend on them
