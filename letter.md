@@ -17,7 +17,7 @@ In particular we believe three practices are harmful:
   * There seems to have been an undocumented change in stance toward examples, with many contributors reporting CRAN administrators are rejecting submissions citing not enough examples whilst also refusing to accept any examples with `\dontrun{}` and `\donttest{}`. These blocks were previously accepted as standard practice. 
   * On multiple occasions packages premised on colour palettes have been rejected due to triviality only to have other packages with almost identical premises, and of similar complexity be accepted shortly after. 
   
-These types of experiences are felt heavily by new contributors who are not aware of hidden criteria they need to meet or the "luck" element of getting a package accepted smoothly.
+This practice wastes the time of both CRAN administrators and contributors. We believe the submission burden on both sides could be significantly reduced by fully documenting acceptance criteria, and reducing ambiguity with guidance and examples. 
 
 **Archiving packages for a small number of test failures on proprietary platforms** harms package test coverage. For example:
 
