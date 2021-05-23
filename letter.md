@@ -1,6 +1,6 @@
 This letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community.
 
-So in the spirit of empathy and fairness we begin by acknowledging the sustained dedication of our CRAN administrators, and thank them for the foundational piece of infrastructure they have built which has made the way we work together with R possible.
+So in the spirit of empathy and fairness we begin by acknowledging the sustained dedication of our CRAN administrators, and thank them for building the foundational piece of infrastructure which has made the way we work together with R possible.
 
 There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive technical feat from which great public good has been derived.
 
