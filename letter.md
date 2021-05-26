@@ -1,14 +1,18 @@
-This letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community.
+The Comprehensive R Archive Network, CRAN from now forward, is one of the central pieces of the R ecosystem (besides R itself). As such, the role it has played on the R development and adoption of R is huge. CRAN has benefited both R developers and the R community by providing a place to evaluate the impact of R changes, explore solutions to the language itself, provide support to package with functionality beyond the R language and most importantly ensure a common quality threshold for packages, among other benefits.
 
-So in the spirit of empathy and fairness we begin by acknowledging the sustained dedication of our CRAN administrators, and thank them for building the foundational piece of infrastructure which has made the way we work together with R possible.
-
+CRAN also requires many resources from the community: The machines and software infrastructure, reviewing packages, the CRAN mirrors, the security of the site... 
+All this takes much time from all the R core members, the R foundation and R package contributors. All have dedicated many hours if not days or years to make it such a successful resource. 
 There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive technical feat from which great public good has been derived.
 
-Yet it is also with empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in a call to reform CRAN practices that are damaging the R package ecosystem.
+We specially want to recognize and praise the dedication of the R core members to this task. As R package developers and/or R users we usually just see a slice of the work required instead of the herculean effort done as attest that R is one of the few languages that has such resource. Thanks!
 
-A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has shaken our trust that our community's central package archive is being managed sustainably.
+CRAN has made possible a vibrant and growing community of R users who many of them want to make available their work and solutions to other R members. As such  contributing to the archive has become even more important to all. 
 
-If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many of us to question whether submitting to CRAN is worthwhile, and wonder if tests deployed on CRAN are truly assets or liabilities.
+However, with an increased support to several architectures, settings and a growing number of packages, the pressure on CRAN maintainers and admins has increased too. 
+
+Current efforts to decrease the pressure has been addressed to ensure that the packages submitted pass some automatic quality checks: The R foundation has provided support to lighten the pressure on CRAN package maintainers such as the R hub, which has dramatically helped R package maintainers. CRAN administrators has also provided checking venues to test packages before the submissions for some settings. But both efforts are not complete a still the R hub does not have the same configuration and environments as CRAN. 
+
+As the number of R package contributors outnumbers the R core members dedicated to CRAN we agree on the general direction of the efforts: a small improvement done by each maintainer helps all. We are keen to invest more time on improving the quality of the packages and reduce the work passed to the R cored.
 
 In particular we believe three practices are harmful:
 
