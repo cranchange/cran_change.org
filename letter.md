@@ -76,6 +76,6 @@ Currently the R project has a code of conduct for the useR! conferences. Extendi
 
 This will provide a venue to those interested on helping CRAN to be aware of any discussion where their expertise could help CRAN and avoid duplication of efforts between CRAN and other communities. For example, the Bioconductor governance boards publish their minutes after they are approved on the next meeting which has lead to an increased participation from some members. 
 
-11. Establish a process whereby *CRAN notifies the R community* of shortfalls in resources which could be met by community contributions.
+11. Establish a process whereby **CRAN notifies the R community** of shortfalls in resources which could be met by community contributions.
 
 As seen the pressure on CRAN resources is increasing and we do not want to see a break down of CRAN, so if there were a method or channel that CRAN could requests resources some members of the community might step up. Using the recently created blog at https://developer.r-project.org/Blog/public/ might be a good site to post such needs as well as the R-devel-pkg mailing list.
