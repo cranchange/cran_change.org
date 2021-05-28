@@ -38,6 +38,7 @@ We propose the following measures to improve how CRAN works and its role on the 
 1. **Consult with the community to create a policy on archival**. 
 
 This would help to set expectations beforehand and the package maintainers to organize their time to work on the package to address any required change. Longer time on difficult platforms, those without alternative checking venues, also ensures that the package maintainers have time to explore these platforms, identify and fix any potential error. For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
+More time would prevent archival of packages with extensive testing but lack of resources to test on platforms and settings difficult to access, this would also enable that packages maintainer to confidently not expose more test to CRAN checks without fear of a sudden archival. This will also help contributors who have no paid time to work on open source, with other familiar responsabilities, or with health issues at the moment the bugs are detected on CRAN. 
 
 2. **Standardise build environments** and publish reproducible configuration so that contributors can test against CRAN environments.
 
@@ -45,7 +46,9 @@ The environments and system configuration are hard to set up to reproduce the en
 
 3. Publish a single exhaustive and **authoritative source of criteria that a package must meet to be accepted on CRAN**.
 
-Currently some package authors do not have a clear idea whether their package will be accepted on CRAN, not on base of the automatic checks but about the content and goal of their packages. The policy currently says of "publication quality ", but that might be not well understood for those outside academia and leaves out many useful packages to the community that are not scientific or academic. This sets the CRAN reviewers in a position to judge on a nebulous criteria and differences between what reviewers deem of publication quality and hence on what is suitable for CRAN. If CRAN rejecting packages based on qualitative assessments of content detailed criteria should be published if so. For example: https://devguide.ropensci.org/policies.html#policies
+Currently some package authors do not have a clear idea whether their package will be accepted on CRAN, not on base of the automatic checks but about the content and goal of their packages. The policy currently says of "publication quality ", but that might be not well understood for those outside academia and leaves out many useful packages to the community that are not scientific or academic. 
+
+This sets the CRAN reviewers in a position to judge on a nebulous criteria and differences between what reviewers deem of publication quality and hence on what is suitable for CRAN. Which has lead to rejecting submissions based on undocumented criteria, or inconsistently applied criteria. For instance packages for colour palettes have been rejected as insufficient while others where accepted or requiring sufficient documentation but refusing to accept any examples with `\dontrun{}` and `\donttest{}`. If CRAN rejecting packages based on qualitative assessments of content detailed criteria should be published. For example: https://devguide.ropensci.org/policies.html#policies
 
 4. **Consult with the community to create or modify CRAN policy**. 
 
