@@ -33,8 +33,9 @@ More time would prevent archival of packages with extensive testing but lack of 
 
 2. **Standardise build environments** and publish reproducible configuration so that contributors can test against CRAN environments.
 
-The environments and system configuration are hard to set up to reproduce the environments. Currently the R Foundation supports R-Hub but these servers do not have the same environments as on CRAN. Sharing more of the environment would increase the fidelity that package maintainers could test their package before submitting to CRAN, thus reducing the resubmissions on CRAN and time spend checking packages on CRAN machines as well as CRAN reviewers time.  
-Some CRAN values for R environmental variables are documented on the R internals manual page https://cran.r-project.org/doc/manuals/r-release/R-ints.html#Tools, which is not linked on CRAN policy. This is a source of confusion when package developers checks do not return the same results as CRAN.
+The environments and system configuration are hard to set up to reproduce the environments. Currently the R Foundation supports R-Hub but these servers do not have the same environments as on CRAN. 
+Some CRAN values for R environmental variables are documented on the R internals manual page https://cran.r-project.org/doc/manuals/r-release/R-ints.html#Tools, which is not linked on CRAN policy. Others environment variables used by CRAN are not documented on R internals neither, such as "_R_CHECK_CRAN_INCOMING_CHECK_FILE_URIS_". This is a source of confusion when package developers checks do not return the same results as CRAN, and the package developers do not know how to properly test their packages.
+Sharing more of the environment would increase the fidelity that package maintainers could test their package as CRAN team does before submitting to CRAN, thus reducing the resubmissions on CRAN and time spend checking packages on CRAN machines as well as CRAN reviewers time.  
 
 
 3. Publish a single exhaustive and **authoritative source of criteria that a package must meet to be accepted on CRAN**.
