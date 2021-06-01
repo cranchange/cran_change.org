@@ -1,47 +1,41 @@
-This letter seeks to draw attention to deficiencies in empathy and fairness that are impacting the R community.
+The Comprehensive R Archive Network (CRAN), is unusual among similar user-contributed software package infrastructure due to the high standards to which contributed packages are held, and the continuous checking system that validates packages against reverse dependencies and operating systems. 
 
-So in the spirit of empathy and fairness we begin by acknowledging the sustained dedication of our CRAN administrators, and thank them for building the foundational piece of infrastructure which has made the way we work together with R possible.
+These features combine to create an extremely smooth user experience whereby users can trust that any software they install from CRAN is likely to work, be compatible with other CRAN packages, and most importantly leave their local R package library in a consistent state.
 
-There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive technical feat from which great public good has been derived.
+There is no question that moving software package pain points out of the way of statistics practitioners has made a large contribution to R becoming an extremely popular statistical programming environment.
 
-Yet it is also with empathy for the experiences of CRAN's users, and in fairness to the future R community that we, the undersigned R community members, find ourselves with no other reasonable alternative than to unify our voices in a call to reform CRAN practices that are damaging the R package ecosystem.
+Unfortunately, we the undersigned R community members, are unified in our concern that CRAN is showing signs that it is struggling to scale with popularity of the R language. 
 
-A pattern of increasingly inconsistent and heavy-handed behaviour by CRAN administrators has shaken our trust that our community's central package archive is being managed sustainably.
+In particular there appears to be pattern of increasingly unreliable criteria coupled with authoritarian practices that is adding to the burden on both package contributors and CRAN administrators.
 
-If left unchecked we believe this pattern will undermine CRAN's position as a comprehensive archive of quality software, since is it already leading many of us to question whether submitting to CRAN is worthwhile, and wonder if tests deployed on CRAN are truly assets or liabilities.
+This pattern is driving a behavioural change in contributors among us, who are acting to reduce their exposure to CRAN's policies and checks. This not only undermines CRAN's checking system but also the R language itself since CRAN checks are used to validate core changes.
 
-In particular we believe three practices are harmful:
+We also acknowledge there contributors among us for which the increasing burden has reached a tipping point, leading to them feeling frustrated and discouraged.
 
-**Rejecting submissions based on undocumented criteria, or inconsistently applied criteria** makes it difficult for contributors to predict if their submissions will be accepted without issues, and so erodes willingness to contribute. For example:
+The fact that there is currently no avenue by which R community members can engage CRAN administrators on these topics is another indication that our community may have outgrown CRAN's operating model. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and to some degree lead to the contributions of CRAN's administrators being under-appreciated.
 
-  * There seems to have been an undocumented change in stance toward examples, with many contributors reporting CRAN administrators are rejecting submissions citing not enough examples whilst also refusing to accept any examples with `\dontrun{}` and `\donttest{}`. These blocks were previously accepted as standard practice. 
-  * On multiple occasions packages premised on colour palettes have been rejected due to triviality only to have other packages with almost identical premises, and of similar complexity be accepted shortly after. 
-  
-This practice wastes the time of both CRAN administrators and contributors. We believe the submission burden on both sides could be significantly reduced by fully documenting acceptance criteria, and reducing ambiguity with guidance and examples. 
+We therefore petition CRAN's administrators to make the following reforms to ensure CRAN continues to serve the R community as a robust, comprehensive, and diverse R package ecosystem:
 
-**Archiving packages for a small number of test failures on proprietary platforms** harms package test coverage. For example:
+1. **Consult with the community to create a policy on archival.**
 
-  * Recently a package with 100% test coverage and over 2000 tests was archived when 2 of those tests began failing on an expensive proprietary platform. The failure could not be reproduced on RHub.
-  
-This practice discourages extensive testing on CRAN, and has already lead developers among us to limit functionality exposed to CRAN to low-risk subsets. The degradation of the reverse dependency checking system in this way weakens both packages and the R language itself, since package checks are used to validate core changes.
+For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
 
-**Archiving packages with little or no warning** discriminates against contributors with less time available on short notice. Typical periods attached to the threat of archival seem to range in zero to six weeks. Under this practice there are many categories of contributor who will find it difficult to keep their work on CRAN, for example:
+Short timelines make it challenging for certain classes of contributor to keep their work on CRAN. For example:
 
   * Contributors who have no paid time to work on open source
   * Contributors with families or others who depend on them
   * Contributors who are unwell or on leave
+  
+Archiving packages quickly may also add future review overhead if CRAN administrators apply a higher standard of review to packages returning from archived status. 
 
-Aside from the nature of these actions, the tone taken by CRAN administrators in their communications with contributors is at times abrupt and unsympathetic. This routinely takes new contributors by surprise since it is out of step with the norms of the larger R community. 
+2. **Standardise build environments and publish reproducible configuration.**
 
-Contributors are a precious resource and discouraging them threatens CRAN's 'comprehensive' aspect.
+Expecting contributors to ensure no test failures in environments they cannot access ensures CRAN administrators will be burdened by chasing contributors for fixes for those environments. Contributors are burdened by challenges in diagnosing issues on those platforms.
 
-The fact that there is currently no avenue by which R community members can engage CRAN administrators on these topics points to an operating model that our community may have outgrown. There are aspects of the way CRAN works that we feel are unnecessarily opaque, and incompatible with the open nature of the R community and its other governing bodies.
+Having CRAN's configurations available on infrastructure like RHub or GitHub actions could greatly reduce instances of platform specific issues making their way onto CRAN.
 
-We therefore propose the following reforms to CRAN to ensure a robust, comprehensive, and diverse R package ecosystem:
-
-1. Consult with the community to create a policy on archival. For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access
-2. Standardise build environments and publish reproducible configuration so that contributors can test against CRAN environments, e.g. via RHub
 3. Publish a single exhaustive and authoritative source of criteria that a package must meet to be accepted on CRAN
+
 4. Consult with the community to create a CRAN editorial policy that can be consistently applied. Do we want CRAN rejecting packages based on qualitative assessments of content? Detailed criteria must be published if so. For example: https://devguide.ropensci.org/policies.html#policies
 5. If CRAN modifies a package's source code for any reason this must be made clear to maintainers and users. Maintainers should receive an email, the package version number should be bumped, and users should receive an onLoad message 
 6. Publish a policy on re-submission intervals that can be consistently applied 
