@@ -2,24 +2,16 @@
 
 The Comprehensive R Archive Network, CRAN from now forward, is one of the central pieces of the R ecosystem (besides R itself). 
 CRAN has made possible a vibrant and growing community of R users who many of them want to make available their work and solutions to other R members. It has unified the R users and the role it has played on the R development and adoption of R. 
-CRAN has benefited both R core developers and the R community. To the first by providing a place to evaluate the impact of R changes, explore solutions to the language itself,
-To the R community it has been a source of quality packages, an invaluable place to share one's package and an assurance when depending on the packages developed among other benefits.
+CRAN has benefited both R core developers and the R community. 
 
 CRAN also requires many resources from the community: The machines and software infrastructure, reviewing and updating packages, the CRAN mirrors, the security of the site... 
 All this takes much time from all the R core members and R package contributors who have dedicated many hours if not days or years to make it such a successful resource. 
 There is no question that holding an ever increasing pool of software and contributors to high standards, and continuously validating those standards are held is a resource intensive technical feat from which great public good has been derived.
 
-At the same time, the increasing support to several architectures, environment settings and the growing number of packages, the pressure on CRAN maintainers and admins has increased too. 
 Past efforts to decrease the pressure has been addressed to ensure that the packages pass some automatic quality checks before the submission:
 The R foundation has provided support to lighten the pressure on CRAN package maintainers such as the R hub, which has dramatically helped R package maintainers and CRAN has provided alternative checking venues for some settings. 
-Given that the number of R package contributors outnumbers the R core members dedicated to CRAN we agree on the general direction of the efforts: a small improvement done by each maintainer helps all. This is a direction where all improvements will be welcomed. 
 
-We want to add our suggestion of changes to the R Core and R Foundation to continue improve R and the system around it.
-One of the most time intensive activity and where more friction happens is while reviewing packages and applying CRAN policies. 
-This is a crucial step that cannot be automatically checked as they require human intervention and some exchange between CRAN and the package maintainers. 
-We think further progress to prevent and reduce pain points at this step will improve the platform current role and set it ready for the future. 
-
-Most of these petitions are around an increased transparency and communication of how CRAN works. 
+We want to add our suggestion of changes to the R Core and R Foundation to continue improve CRAN.
 We understand that this measures will cause an initial work but we argue that they will pay off soon, as a clearer communication will reduce misunderstandings. 
 
 # Petitions
