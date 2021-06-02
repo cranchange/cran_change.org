@@ -25,7 +25,7 @@ We propose the following measures to improve how CRAN works and its role on the 
 1. **Consult with the community to create a policy on archival**. 
 
 This would help to set expectations beforehand and the package maintainers to organize their time to work on the package to address any required change. Longer time on difficult platforms, those without alternative checking venues, also ensures that the package maintainers have time to explore these platforms, identify and fix any potential error. For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
-More time would prevent archival of packages with extensive testing but lack of resources to test on platforms and settings difficult to access, this would also enable that packages maintainer to confidently not expose more test to CRAN checks without fear of a sudden archival. This will also help contributors who have no paid time to work on open source, with other familiar responsabilities, or with health issues at the moment the bugs are detected on CRAN. 
+More time would prevent archival of packages with extensive testing but lack of resources to test on platforms and settings difficult to access, this would also enable that packages maintainer to confidently not expose more test to CRAN checks without fear of a sudden archival. This will also help contributors who have no paid time to work on open source, with other familiar responsibilities, or with health issues at the moment the bugs are detected on CRAN. 
 
 2. **Standardise build environments** and publish reproducible configuration so that contributors can test against CRAN environments.
 
@@ -42,11 +42,17 @@ This sets the CRAN reviewers in a position to judge on a nebulous criteria and d
 
 4. **Consult with the community to create or modify CRAN policy**. 
 
-To our knowledge CRAN policy changes have been made without announcing or consulting the package maintainers affected. The community has set up ways to track changes on it. Discussing and announcing those changes, for example on the R-pkg-devel mailing list before they are being acted upon will reduce CRAN reviewers work as package maintainers will be able to be proactive and apply the CRAN policies while developing their packages or before they receive a message from CRAN, reducing the work from CRAN team.
+
+Currently changes on CRAN policy are only announced biannualy on the R journal issue. However, CRAN policy experiments more frequent changes which are enforced before the notification on the R journal. 
+Thus, maintainers need to frequently check for CRAN policy changes if they want prevent their packages being archived. 
+The community has set up ways to track changes on it but discussing and announcing those changes as they happen. 
+For example on the R-pkg-devel mailing list before they are being acted upon will reduce CRAN reviewers work as package maintainers will be able to be proactive and apply the CRAN policies while developing their packages or before they receive a message from CRAN, reducing the work from CRAN team.  
+In addition, to our knowledge CRAN policy changes have been made without announcing beforehand or consulting the package maintainers affected.
+Doing so could help align better the view of package maintainers about CRAN and help understand the motivation of the policy. 
 
 5. Establish a **governance model** including a **process** by which community members can propose changes to CRAN policies or processes. 
 
-This governance would ensure that future changes keep all involved aligned. For example the PEP system in Python, or the boards of Bioconductor are some examples of governance bodies on similar communities. 
+This governance would ensure that future changes keep all involved aligned when R users and package maintainers would provide unsolicited constructive feedback about CRAN. For example, the PEP system in Python, or the boards of Bioconductor are some governance strategies on similar communities that can be used as inspiration. 
 
 6. If **CRAN modifies or archives a package** for any reason this must be **notified** to maintainers.
 
