@@ -11,8 +11,12 @@ There is no question that holding an ever increasing pool of software and contri
 Past efforts to decrease the pressure has been addressed to ensure that the packages pass some automatic quality checks before the submission:
 The R foundation has provided support to lighten the pressure on CRAN package maintainers such as the R hub, which has dramatically helped R package maintainers and CRAN has provided alternative checking venues for some settings. 
 
-We want to add our suggestion of changes to the R Core and R Foundation to continue improve CRAN.
-We understand that this measures will cause an initial work but we argue that they will pay off soon, as a clearer communication will reduce misunderstandings. 
+We want to add our suggestion of changes to the R Core and R Foundation to continue improving CRAN. 
+They have been motivated by an increasing divergent view of what is CRAN and what it will be on the future, which has lead to different opinions about what is accepted on CRAN, how to check, keep or increase the quality of CRAN packages and the transparency of how CRAN operates. 
+We think that these petitions will help reducing CRAN's team time spend on packages and package maintainers to submit better packages more prone to be accepted on the archive.
+Most of the measures are focused on providing a healthier bidirectional communication between CRAN and R packages maintainers at large.
+We think better communication, which is key to the success of the project, would and create smoother submissions and experiences maintaining a package on CRAN.
+We understand that this measures will cause an initial work but we argue that they will pay off soon.
 
 # Petitions
 
