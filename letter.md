@@ -14,8 +14,8 @@ There are also contributors for whom the increasing burden has reached a tipping
 
 To reverse these trends we believe it is time for CRAN to undertake reform. At a high level we are calling for measures that will:
 
-* Increase the clarity of criteria for packages to be accepted and remain on CRAN
-* Improve the consistency and predictability of working with CRAN
+* Clarify criteria for packages to be accepted on CRAN
+* Make CRAN more predictable to work with 
 * Ensure CRAN is accessible to a diverse set of contributors
 * Establish channels for CRAN collaboration with the R community 
 
@@ -67,7 +67,7 @@ At a minimum we propose that maintainers should receive an email, the package ve
 
 6. Publish a policy on re-submission intervals that can be consistently applied 
 
-A recurring source of conflict between administrators and contributors arises when contributors submit too frequently. This may be due to the fact that the allowable frequency of submissions is left rubbery in CRAN policy. Ideally contributors would receive a set number of submissions per period. CRAN systems would automatically ensure they don't submit more than this, and it would be clear to contributors at all times how many submissions they have, or how long until they can next submit.
+A recurring source of conflict between administrators and contributors arises when contributors submit too frequently. This may be due to the fact that the allowable frequency of submissions is left rubbery in CRAN policy. This conflict could be removed if contributors received a set number of submissions per period. CRAN systems could automatically ensure they don't submit more than this, and it could be clear to contributors at all times how many submissions they have, or how long until they can next submit.
 
 7. Cease punitive temporary submission bans for contributors with repeated rejections or test failures
 
