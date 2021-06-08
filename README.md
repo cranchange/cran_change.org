@@ -10,4 +10,5 @@ This is a petition calling for CRAN reform.
 * Draft 2 (current) is still being revised, but community feedback is welcome. Please feel free to file an issue.
   - This draft tries to more specifically describe the problems and frame the proposals more constructively. It tries to balance a firm tone with being constructive, and appropriately appreciative of CRAN's efforts.
   - The 'Supporting this petition' items have been removed since on reflection they seemed to preempt CRAN's response.
+  - Many new ideas in the draft come from a [PR made by Lluís Revilla](https://github.com/cranchange/cran_change.org/pull/21).
   
