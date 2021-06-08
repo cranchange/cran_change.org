@@ -6,7 +6,7 @@ There is no question that moving software package pain points out of the way of 
 
 Unfortunately, we, the undersigned R community members, are unified in our concern that CRAN is showing signs that it is struggling to scale with the popularity of the R language. 
 
-In particular there appears to be pattern of increasing and shifting the burden of maintaining packages on CRAN via regular introduction of new criteria and policies coupled with an uptick in heavy-handed enforcement practices. Some of these new constraints are not well documented, leading to much confusion that is adding to the burden on both contributors and CRAN administrators.
+In particular there appears to be pattern of increasing and shifting the burden of maintaining packages on CRAN via regular introduction of new criteria and policies, coupled with an uptick in heavy-handed enforcement practices. Some of these new constraints are not well documented, causing much confusion that is adding to the burden on both contributors and CRAN administrators.
 
 This pattern is driving behavioural change in contributors among us. Many are acting to reduce their exposure to CRAN's policies and checks. This not only undermines CRAN's checking system but also the R language itself since CRAN checks are used to validate core changes.
 
