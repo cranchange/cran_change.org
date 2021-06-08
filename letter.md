@@ -25,7 +25,7 @@ As we will argue, many of our proposals have the capacity to reduce the burden o
 
 We therefore petition CRAN's administrators to make the following reforms to ensure CRAN continues to serve the R community as a robust, comprehensive, and diverse R package ecosystem:
 
-1. **Consult with the community to create a policy on archival.**
+## 1. Consult with the community to create a policy on archival.
 
 For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
 
@@ -37,62 +37,61 @@ Consider that short timelines make it challenging for certain classes of contrib
   
 Also consider that archiving packages quickly may increase future review overhead if CRAN administrators apply a higher standard of review to packages returning from archived status. 
 
-2. **Standardise build environments and publish reproducible configuration.**
+## 2. Standardise build environments and publish reproducible configuration.
 
 Expecting contributors to ensure no test failures in environments they cannot access guarantees CRAN administrators will be burdened by chasing contributors for fixes for those environments. When that happens, contributors are burdened by challenges in diagnosing issues in those environments.
 
 Having reproductions of CRAN's environments available on infrastructure like RHub or GitHub actions could greatly reduce instances of platform specific issues making their way onto CRAN.
 
-3. **Publish a single exhaustive and authoritative source of criteria that a package must meet to be accepted on CRAN.**
+## 3. Publish a single exhaustive and authoritative source of criteria that a package must meet to be accepted on CRAN.
 
 Fully documenting criteria, like for example the current stance on `\donttest`/`\donttrun`, or providing detailed guidance as to the interpretation of terms like "publication quality" and "trivial" has the potential to significantly reduce the submission burden for administrators and contributors. An increased ability for contributors to predict if their package is CRAN-ready may also bolster will to contribute.
 
 
-4. **Consult with the community to create or modify CRAN policy**.
+## 4. Consult with the community to create or modify CRAN policy
 
 Publicly flagging policy changes some time before they come into effect can reduce policy ignorance and the associated burden of policy enforcement on CRAN administrators. It would also give contributors a chance to bring their work into line with policy without requiring threat of archive, reducing pressure and frustration. 
 
 Publicly consulting on policy with the community has the added benefit of potentially identifying policies that stifle innovation in unexpected ways, or will motivate unanticipated work-arounds. These insights can reduce policy churn in the long term, along with associated administrator enforcement burden and contributor frustration.
 
-5. **If CRAN modifies a package's source code for any reason this must be made clear to maintainers and users** 
+## 5. Notify maintainers and users of any modifications made by CRAN to a package's source code
 
 When parties are unaware of CRAN modifications unfortunate wasteful events have been observed to occur:
 
 * Authors unknowingly undo CRAN's changes in a subsequent submission causing problems that cost contributors and administrators time. 
 * Users submit bug reports relating to CRAN changes leading to difficulty in reproducing issues.
 
-It has been observed that some of these modifications may relate to intricacies of CRAN's environments, a further argument for reform4.
+It seems that some of these modifications may relate to intricacies of CRAN's environments, a further argument for reform 4.
 
 At a minimum we propose that maintainers should receive an email, the package version number should be bumped, and users should receive an onLoad message. 
 
-6. Publish a policy on re-submission intervals that can be consistently applied 
+## 6. Publish a policy on re-submission intervals that can be consistently applied 
 
 A recurring source of conflict between administrators and contributors arises when contributors submit too frequently. This may be due to the fact that the allowable frequency of submissions is left rubbery in CRAN policy. This conflict could be removed if contributors received a set number of submissions per period. CRAN systems could automatically ensure they don't submit more than this, and it could be clear to contributors at all times how many submissions they have, or how long until they can next submit.
 
-7. Cease punitive temporary submission bans for contributors with repeated rejections or test failures
+## 7. Cease punitive temporary submission bans for contributors with repeated rejections or test failures
 
 Administrators issuing punishments is a cumbersome process that involves effort in decision making, communication, and bookkeeping. Time can be saved by replacing it with more transparent, and automatic processes wherever possible. For example:
 
 * Test failures could trigger automatic notifications, and automatically result in archival if they reach a persistence or recurrence threshold. Package status with respect to these thresholds could be publicly visible to users and contributors encouraging them to resolve these issues without administrator intervention.
 * Rejections could be treated similarly to submissions, with a set quota of rejections available before a break period is automatically introduced. Contributors would be able to know at all times how much of their quota remains, and the break period that would result from exceeding it. 
 
-8. Establish a governance model including a process by which community members can propose changes to CRAN policies or processes. For example the PEP system in Python
- 
- 
-9. Establish a code of conduct for the behaviour of CRAN administrators and contributors in their dealings
-10. Publish minutes of CRAN governence meetings
-11. Establish a process whereby CRAN notifies the R community of shortfalls in resources which could be met by community contributions 
+## 8. Establish a governance model including a process by which community members can propose changes to CRAN policies or processes.
 
-We appreciate a lot of reform is being sought from what is a famously small team of administrators. However, being under-resourced does not mitigate the damage being done by CRAN's current practices, rather it is an argument in itself that reform is needed so that CRAN may attract the resources to perform its valuable role sustainably.
+A public register of community proposals to be considered transparently is one way other open source peak bodies have handled creating mechanisms to demonstrate they are listening to the community they are receiving resources to serve (E.g. TC39 Proposals for Javascript, and Python Enhancement Proposals). The community perspective is also an important source of innovations that has ensured those organisations have continued to thrive.
 
-## Supporting this petition
+If such a proposal mechanism existed there would have been no need for this petition.
 
-With this action we wish to advocate for a respectful dialogue about reforming the administration of CRAN's package ecosystem. We do not wish to disparage the contributions that have been provided to this point by CRAN administrators.
+## 9. Establish a code of conduct for the behaviour of CRAN administrators and contributors in their dealings
 
-In addition to signing the petition there are several steps R community members can take to show their support for these reforms:
+A code of conduct would explain to contributors what they can expect in communications from CRAN administrators and what CRAN administrators expect from them. It helps avoid frustration between parties whose expectations do not align. It should also make it clear what will happen when those expectations are not met, and how such issues should be raised.
 
-1. Share this petition with your networks
-2. Withhold submitting new packages or new features to CRAN where you are comfortable doing so, and use this badge in your README [BADGE URL] 
-3. Configure alternative package repositories where you trust the developers e.g. https://r-universe.dev for rOpensci, RStudio et. al. packages
-4. Contribute your own packages to alternative repositories and advertise these ways to install them in your README
-4. refer to the CRAN team as "CRAN administrators" rather than their self-assigned label of "volunteers". This label describes a role which we can clarify the expectations of as opposed to a remuneration status.
+## 10. Publish minutes of CRAN governence meetings
+
+These documents are a vehicle for CRAN to communicate the issues administrators are dealing with. This gives the community context for the actions of CRAN administrators, and helps build empathy for them. They also alert the community to opportunities where they can offer solutions.
+
+Highly relevant precedents for this are the published minutes for meetings of the various Bioconductor governance boards.
+
+## 11. Establish a process whereby CRAN notifies the R community of shortfalls in resources which could be met by community contributions
+
+There is no reason, in a community as large and appreciative as ours, that a key piece of infrastructure like CRAN should struggle to scale due to lack of resources. We believe using community contributions to maintain the quality of the service is preferable to sacrificing quality in the name of efficiency. A community contribution mechanism could help ensure the quality of CRAN into the future.. 
