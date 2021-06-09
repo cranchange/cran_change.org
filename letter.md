@@ -67,7 +67,9 @@ At a minimum we propose that maintainers should receive an email, the package ve
 
 ## 6. Publish a policy on re-submission intervals that can be consistently applied.
 
-A recurring source of conflict between administrators and contributors arises when contributors submit too frequently. This may be due to the fact that the allowable frequency of submissions is left rubbery in CRAN policy. This conflict could be removed if contributors received a set number of submissions per period. CRAN systems could automatically ensure they don't submit more than this, and it could be clear to contributors at all times how many submissions they have, or how long until they can next submit.
+A recurring source of conflict between administrators and contributors arises when contributors submit too frequently. This may be due to the fact that the allowable frequency of submissions is left rubbery in CRAN policy. It is also unclear if submissions made at CRAN's request are included a contributor's notional quota.
+
+This conflict could be removed if contributors received a set number of submissions per period. CRAN systems could automatically ensure they don't submit more than this, and it could be clear to contributors at all times how many submissions they have, or how long until they can next submit. Additional quota could be granted when making submissions requested by CRAN administrators. 
 
 ## 7. Cease punitive temporary submission bans for contributors with repeated rejections or test failures.
 
