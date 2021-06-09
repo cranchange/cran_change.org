@@ -1,8 +1,6 @@
 The Comprehensive R Archive Network (CRAN), is unusual among user-contributed software package infrastructure due to the high standards to which contributions are held, and the continuous checking system that validates packages against reverse dependencies and operating systems. 
 
-This combination of features allows users to trust that any software they install from CRAN is likely to work, be compatible with other CRAN packages, and leave their local R package library in a consistent state.
-
-There is no question that moving software package pain points out of the way of statistics practitioners has made a large contribution to R becoming an extremely popular statistical programming environment.
+This combination of features allows users to trust that any software they install from CRAN is likely to work, be compatible with other CRAN packages, and leave their local R package library in a consistent state. The great effort undertaken to move these software package pain points out of the way of statistics practitioners has made a large contribution to R becoming an extremely popular statistical programming environment.
 
 Unfortunately, we, the undersigned R community members, are unified in our concern that CRAN is showing signs that it is struggling to create a consistent experience for contributors. 
 
