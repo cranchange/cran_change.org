@@ -1,10 +1,10 @@
-The Comprehensive R Archive Network (CRAN), is unusual among similar user-contributed software package infrastructure due to the high standards to which contributed packages are held, and the continuous checking system that validates packages against reverse dependencies and operating systems. 
+The Comprehensive R Archive Network (CRAN), is unusual among user-contributed software package infrastructure due to the high standards to which contributions are held, and the continuous checking system that validates packages against reverse dependencies and operating systems. 
 
-These features combine to create a smooth user-friendly experience where users can trust that any software they install from CRAN is likely to work, be compatible with other CRAN packages, and most importantly leave their local R package library in a consistent state.
+This combination of features allows users to trust that any software they install from CRAN is likely to work, be compatible with other CRAN packages, and leave their local R package library in a consistent state.
 
 There is no question that moving software package pain points out of the way of statistics practitioners has made a large contribution to R becoming an extremely popular statistical programming environment.
 
-Unfortunately, we, the undersigned R community members, are unified in our concern that CRAN is showing signs that it is struggling to scale with the popularity of the R language. 
+Unfortunately, we, the undersigned R community members, are unified in our concern that CRAN is showing signs that it is struggling to create a consistent experience for contributors. 
 
 In particular there appears to be pattern of increasing and shifting the burden of maintaining packages on CRAN via regular introduction of new criteria and policies, coupled with an uptick in heavy-handed enforcement practices. Some of these new constraints are not well documented, causing much confusion that is adding to the burden on both contributors and CRAN administrators.
 
