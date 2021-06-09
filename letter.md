@@ -17,7 +17,7 @@ To reverse these trends we believe it is time for CRAN to undertake reform. At a
 * Ensure CRAN is accessible to a diverse set of contributors
 * Establish channels for CRAN collaboration with the R community 
 
-One of the main themes of our proposal is improving information flow between the community and CRAN. The fact that there is currently no avenue by which R community members can engage CRAN administrators on these topics is evidence of room for improvement in this regard. And while it is unclear whether communication is low due to lack of resources, improving transparency and information flow does seem a necessary precondition for attracting additional resources for CRAN's important work.
+One of the main themes of our proposal is improving information flow between the community and CRAN. The fact that there is currently no avenue by which R community members can engage CRAN administrators on these topics is evidence of room for improvement in this regard. And while it is unclear whether communication is low due to lack of resources, improving transparency and information flow is likely to be a precondition for attracting additional resources for CRAN's important work.
 
 As we will argue, many of our proposals have the capacity to reduce the burden on CRAN administrators as well as contributors, making contributing software to the R ecosystem more efficient and pleasant for all.
 
