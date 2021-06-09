@@ -96,4 +96,4 @@ Highly relevant precedents for this are the published minutes for meetings of th
 
 ## 11. Establish a process whereby CRAN notifies the R community of shortfalls in resources which could be met by community contributions.
 
-There is no reason, in a community as large and appreciative as ours, that a key piece of infrastructure like CRAN should struggle to scale due to lack of resources. We believe using community contributions to maintain the quality of the service is preferable to sacrificing quality in the name of efficiency. A community contribution mechanism could help ensure the quality of CRAN into the future.. 
+There is no reason, in a community as large and appreciative as ours, that a key piece of infrastructure like CRAN should struggle to scale due to lack of resources. We believe using community contributions to maintain the quality of the service is preferable to sacrificing quality in the name of efficiency. A community contribution mechanism could help ensure the quality of CRAN into the future. 
