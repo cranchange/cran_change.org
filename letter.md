@@ -78,7 +78,7 @@ Administrators issuing punishments is a cumbersome process that involves effort 
 
 ## 8. Establish a governance model including a process by which community members can propose changes to CRAN policies or processes.
 
-A public register of community proposals to be considered transparently is one way other open source peak bodies have handled creating mechanisms to demonstrate they are listening to the community they are receiving resources to serve (E.g. TC39 Proposals for Javascript, and Python Enhancement Proposals). The community perspective is also an important source of innovations that has ensured those organisations have continued to thrive.
+A public register of community proposals to be considered transparently is one way other open source peak bodies have handled demonstrating they are listening to communities they are receiving resources to serve (E.g. TC39 Proposals for Javascript, and Python Enhancement Proposals). The community perspective is also an important source of innovations that has ensured those organisations have continued to thrive.
 
 If such a proposal mechanism existed there would have been no need for this petition.
 
