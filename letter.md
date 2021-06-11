@@ -17,6 +17,8 @@ To reverse these trends we believe it is time for CRAN to undertake reform. At a
 * Ensure CRAN is accessible to a diverse set of contributors
 * Establish channels for CRAN collaboration with the R community 
 
+Taken as a whole, we believe these four points will ultimately lead to CRAN maintainers having to spend less time on archiving packages, informing authors of errors, and back-and-forth communication with new package authors. 
+
 One of the main themes of our proposal is improving information flow between the community and CRAN. The fact that there is currently no avenue by which R community members can engage CRAN administrators on these topics is evidence of room for improvement in this regard. And while it is unclear whether communication is low due to lack of resources, improving transparency and information flow is likely to be a precondition for attracting additional resources for CRAN's important work.
 
 As we will argue, many of our proposals have the capacity to reduce the burden on CRAN administrators as well as contributors, making contributing to the R ecosystem more efficient and pleasant for all.
@@ -24,6 +26,8 @@ As we will argue, many of our proposals have the capacity to reduce the burden o
 We therefore petition CRAN's administrators to make the following reforms to ensure CRAN continues to serve the R community as a robust, comprehensive, and diverse R package ecosystem:
 
 ## 1. Consult with the community to create a policy on archival.
+
+Archived packages that are resubmitted may increase the overhead on CRAN administrators if these packages are rereviewed as if was their first submission. We propose implementing an archive policy that will decrease the number of packages needing to be resubmitted and rereviewed.
 
 For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
 
@@ -33,7 +37,6 @@ Consider that short timelines make it challenging for certain classes of contrib
   * Contributors with families or others who depend on them
   * Contributors who are unwell or on leave
   
-Also consider that archiving packages quickly may increase future review overhead if CRAN administrators apply a higher standard of review to packages returning from archived status. 
 
 ## 2. Standardise build environments and publish reproducible configuration.
 
