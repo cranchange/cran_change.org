@@ -27,7 +27,7 @@ We therefore petition CRAN's administrators to make the following reforms to ens
 
 ## 1. Consult with the community to create a policy on archival.
 
-Archived packages that are resubmitted may increase the overhead on CRAN administrators if these packages are rereviewed as if was their first submission. We propose implementing an archive policy that will decrease the number of packages needing to be resubmitted and rereviewed.
+Implementing an archival policy will have benefits that span both the community and CRAN administrators. When a known deadline is presented, it is highly likely package maintainers would be encouraged to implement fixes before this deadline is up, in order to not have to fully resubmit their packages. This will help ensure CRAN continues to offer tools that meet modern day needs. In parallel, CRAN administrators will benefit from having to archive less packages, and less reviewing of archived packages being resubmitted. 
 
 For example: Minimum 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
 
