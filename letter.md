@@ -31,13 +31,11 @@ Charitable timelines for contributors to fix issues promote diversity within the
   * Contributors with families or others who depend on them
   * Contributors who are unwell or on leave
 
-Presenting achievable deadlines is likely to encourage contributors to implement fixes before they expire, since many anecdotes point to a higher standard of review being applied to packages attempting to return from the archive. 
-
-It would also make sense to formalise this notion of a higher review standard in policy to help contributors understand the ramifications of missing a deadline.
+Presenting achievable deadlines is likely to encourage contributors to implement fixes before they expire, since many anecdotes point to a higher standard of review being applied to packages attempting to return from the archive. It would also make sense to formalise this notion of a higher review standard in policy to help contributors understand the ramifications of missing a deadline.
 
 Timelines could also vary by issue type, for example: 6 weeks for policy change, 6 weeks for failing tests. 12 weeks for tests failing on platforms that are difficult to access.
 
-With this policy in place CRAN administrators benefit from having to archive less often, and spend less time reviewing archived package re-submissions. Simultaneously, the whole community benefits from a diverse pool of contributors that helps ensure CRAN continues to offer tools that meet ever evolving-needs.
+With this policy in place CRAN administrators benefit from having to archive less often, and spend less time reviewing archived package re-submissions. Simultaneously, the whole community benefits from a diverse pool of contributors that helps ensure CRAN continues to offer tools that meet ever-evolving needs.
 
 ## 2. Standardise build environments and publish reproducible configuration.
 
