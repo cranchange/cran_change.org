@@ -4,9 +4,9 @@ Because of its success, CRAN has become a fundamental global resource, not only 
 
 We, the undersigned R community members, are unified in concern that CRAN is struggling to provide a consistent experience for contributors.
 
-New criteria and policies are regularly introduced, sometimes without enough documentation for contributors to understand, and enforcement practices have become increasingly discourteous and severe. Contributors are experiencing ambiguity, disruption, and frustration, and they are changing their behaviour to reduce exposure to CRAN's policies and checks (e.g. skipping all tests on CRAN). This not only undermines CRAN's checking system but also the R language itself since CRAN checks are used to validate core changes.
+New criteria and policies are regularly introduced, sometimes without enough documentation for contributors to follow, and enforcement practices have become increasingly discourteous and severe. Contributors are experiencing ambiguity, disruption, and frustration, and they are changing their behaviour to reduce exposure to CRAN's policies and checks (e.g. skipping all tests on CRAN). This not only undermines CRAN's checking system but also the R language itself since CRAN checks are used to validate core changes.
 
-To reverse these trends, we are petitioning CRAN for reform. We request measures that will:
+To reverse these trends, we are petitioning CRAN for reform. We request measures that:
 
 * Establish channels for CRAN collaboration with the R community.
 * Clarify criteria for packages to be accepted on CRAN.
