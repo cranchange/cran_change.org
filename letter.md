@@ -13,7 +13,7 @@ To reverse these trends, we are petitioning CRAN for reform. We request measures
 * Ensure a predictable experience for contributors.
 * Ensure CRAN is accessible to a diverse set of contributors.
 
-Communication between the community and CRAN precedes our other proposed reforms, and improving transparency and information flow is likely to be a precondition for attracting additional resources for CRAN's important work.  We request an avenue by which R community members can directly engage CRAN administrators on the topics described here.
+Communication between the community and CRAN precedes our other proposed reforms, and improving transparency and information flow is likely to be a precondition for attracting additional resources for CRAN's important work. Package contributors currently have difficulty engaging CRAN on the topics described here, and we request an avenue for ongoing dialogue with the community.
 
 Many of our proposals have the capacity to reduce the burden on CRAN administrators as well as contributors, making contributing to the R ecosystem more efficient and pleasant for all.
 
