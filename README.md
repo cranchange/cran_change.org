@@ -12,3 +12,6 @@ This is a petition calling for CRAN reform.
   - The 'Supporting this petition' items have been removed since on reflection they seemed to preempt CRAN's response.
   - Many new ideas in the draft come from a [PR made by Lluís Revilla](https://github.com/cranchange/cran_change.org/pull/21).
   
+# Code of Conduct
+
+This repository is governed by the cranhange code of conduct. See `CODEOFCONDUCT.md`
