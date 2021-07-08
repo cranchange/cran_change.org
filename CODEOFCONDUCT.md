@@ -8,7 +8,7 @@ Be considerate in speech and actions, and actively seek to acknowledge and respe
 
 Take care of each other. Alert any of the @cranchange/authors if you notice a someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
 
-We do not tolerate harassment in any form. Refrain from demeaning, discriminatory, or harassing behavior and speech. This includes speech directed at or referring to CRAN adminstators. Harassment includes, but is not limited to:
+We do not tolerate harassment in any form. Refrain from demeaning, discriminatory, or harassing behaviour and speech. This includes speech directed at or referring to CRAN administrators. Harassment includes, but is not limited to:
 
     offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices
     unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, or employment
@@ -26,14 +26,14 @@ We do not tolerate harassment in any form. Refrain from demeaning, discriminator
     deliberate misgendering or use of ‘dead’ or rejected names
     publication of non-harassing private communication
 
-We prioritize marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+We prioritise marginalised people’s safety over privileged people’s comfort. We will not act on complaints regarding:
 
     ‘reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
     reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
     communicating in a ‘tone’ you don’t find congenial
     criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-If anyone engages in harassing behavior, they will experince action. It may include a warning, or requestt them to leave discussions temporarily, or being permanently blocked.
+If anyone engages in harassing behaviour, they will experience action. It may include a warning, or request them to leave discussions temporarily, or being permanently blocked.
 
 This Code of Conduct applies to all people participating in the CRAN change movement including Slack channels, GitHub project repositories, video calls.
 
