@@ -1,25 +1,23 @@
-The Comprehensive R Archive Network (CRAN), is unusual among user-contributed software package infrastructure due to the high standards to which contributions are held, and the continuous checking system that validates packages against reverse dependencies and operating systems. 
+The Comprehensive R Archive Network (CRAN) is exceptional infrastructure. Thanks to high standards for contributions and a thorough continuous checking system, users can trust that any package from CRAN is likely to work, be compatible with other CRAN packages, and leave the local R package library in a consistent state. These guarantees are fundamental to the success and popularity of R, and they would not be possible without the diligence of the CRAN team.
 
-This combination of features allows users to trust that any software they install from CRAN is likely to work, be compatible with other CRAN packages, and leave their local R package library in a consistent state. The great effort undertaken to move these software package pain points out of the way of statistics practitioners has made a large contribution toward R becoming an extremely popular statistical programming environment.
+Because of its success, CRAN has become a fundamental global resource, not only for independent researchers, but also for large organizations across academia, government, and industry, all of whom depend on the ability to contribute packages in a reliable and predictable manner. Due to the seriousness and breadth of the need, the conduct and administration of CRAN should draw influence from the worldwide community that CRAN serves.
 
-Unfortunately, we, the undersigned R community members, are unified in our concern that CRAN is showing signs that it is struggling to create a consistent experience for contributors. 
+We, the undersigned R community members, are unified in our concern that CRAN is struggling to provide a consistent experience for contributors.
 
-In particular there appears to be pattern of increasing and shifting the burden of maintaining packages on CRAN via regular introduction of new criteria and policies, coupled with an uptick in heavy-handed enforcement practices. Some of these new constraints are not well documented, causing much confusion that is adding to the burden on both contributors and CRAN administrators.
+New criteria and policies are sometimes introduced without enough notice or documentation for contributors to follow, and enforcement practices can be discourteous and severe. Contributors are experiencing ambiguity and disruption, leaving them, along with some CRAN administrators, frustrated and discouraged. 
 
-This pattern is driving behavioural change in contributors among us. Many are acting to reduce their exposure to CRAN's policies and checks. This not only undermines CRAN's checking system but also the R language itself since CRAN checks are used to validate core changes.
+Compelled to adapt, contributors are reluctantly adopting harmful shortcuts to reduce exposure to CRAN's policies and checks, such as skipping all tests and examples on CRAN. This not only undermines CRAN's check system but also the R language itself since CRAN checks are used to validate core changes. And the ambiguity in requirements adds to the workload of CRAN administrators as well as contributors.
 
-There are also contributors for whom the increasing burden has reached a tipping point, leading them to feel frustrated and discouraged. There is evidence that this frustration is mirrored by some CRAN administrators with numerous accounts of communications that are apparently coloured by it. 
+To reverse these trends, we are petitioning CRAN for reform. We request measures that:
 
-To reverse these trends we believe it is time for CRAN to undertake reform. At a high level we are calling for measures that will:
+* Establish channels for CRAN collaboration with the R community.
+* Clarify criteria for packages to be accepted on CRAN.
+* Ensure a predictable experience for contributors.
+* Ensure CRAN is accessible to a diverse set of contributors.
 
-* Clarify criteria for packages to be accepted on CRAN
-* Make CRAN more predictable to work with 
-* Ensure CRAN is accessible to a diverse set of contributors
-* Establish channels for CRAN collaboration with the R community 
+Communication between the community and CRAN precedes our other proposed reforms, and improving transparency and information flow is likely to be a precondition for attracting additional resources for CRAN's important work. Package contributors currently have difficulty engaging CRAN on the topics described here, and we request an avenue for ongoing dialogue with the community.
 
-One of the main themes of our proposal is improving information flow between the community and CRAN. The fact that there is currently no avenue by which R community members can engage CRAN administrators on these topics is evidence of room for improvement in this regard. And while it is unclear whether communication is low due to lack of resources, improving transparency and information flow is likely to be a precondition for attracting additional resources for CRAN's important work.
-
-As we will argue, many of our proposals have the capacity to reduce the burden on CRAN administrators as well as contributors, making contributing to the R ecosystem more efficient and pleasant for all.
+Many of our proposals have the capacity to reduce the burden on CRAN administrators as well as contributors, making contributing to the R ecosystem more efficient and pleasant for all.
 
 We therefore petition CRAN's administrators to make the following reforms to ensure CRAN continues to serve the R community as a robust, comprehensive, and diverse R package ecosystem:
 
