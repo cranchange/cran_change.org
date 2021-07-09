@@ -59,7 +59,7 @@ When parties are unaware of CRAN modifications unfortunate wasteful events have 
 * Authors unknowingly undo CRAN's changes in a subsequent submission causing problems that cost contributors and administrators time. 
 * Users submit bug reports relating to CRAN changes leading to difficulty in reproducing issues.
 
-It seems that some of these modifications may relate to intricacies of CRAN's environments, a further argument for reform 4.
+It seems that some of these modifications may relate to intricacies of CRAN's environments, a further argument for reform 3.
 
 At a minimum we propose that maintainers should receive an email, the package version number should be bumped, and users should receive an onLoad message. 
 
