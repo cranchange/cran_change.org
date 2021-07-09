@@ -1,6 +1,6 @@
 The Comprehensive R Archive Network (CRAN) is exceptional infrastructure. Thanks to high standards for contributions and a thorough continuous checking system, users can trust that any package from CRAN is likely to work, be compatible with other CRAN packages, and leave the local R package library in a consistent state. These guarantees are fundamental to the success and popularity of R, and they would not be possible without the diligence of the CRAN team.
 
-Because of its success, CRAN has become a fundamental global resource, not only for independent researchers, but also for large organizations across academia, government, and industry, all of whom depend on the ability to contribute packages in a reliable and predictable manner. Due to the seriousness and breadth of the need, it is right and appropriate for the worldwide community that CRAN serves to influence the conduct and administration of CRAN.
+Because of its success, CRAN has become a fundamental global resource, not only for independent researchers, but also for large organizations across academia, government, and industry, all of whom depend on the ability to contribute packages in a reliable and predictable manner. Due to the seriousness and breadth of the need, it is right and proper for the worldwide community that CRAN serves to influence the conduct and administration of CRAN.
 
 We, the undersigned R community members, are unified in our concern that CRAN is struggling to provide a consistent experience for contributors.
 
