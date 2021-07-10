@@ -14,4 +14,4 @@ This is a petition calling for CRAN reform.
   
 # Code of Conduct
 
-This repository is governed by the cranhange code of conduct. See `CODEOFCONDUCT.md`
+This repository is governed by the cranchange code of conduct. See `CODEOFCONDUCT.md`
