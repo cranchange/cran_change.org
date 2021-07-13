@@ -1,12 +1,12 @@
 The Comprehensive R Archive Network (CRAN) is exceptional infrastructure. Thanks to high standards for contributions and a thorough continuous checking system, users can trust that any package from CRAN is likely to work, be compatible with other CRAN packages, and leave the local R package library in a consistent state. These guarantees are fundamental to the success and popularity of R, and they would not be possible without the diligence of the CRAN team.
 
-Because of its success, CRAN has become a fundamental global resource, not only for independent researchers, but also for large organizations across academia, government, and industry, all of whom depend on the ability to contribute packages in a reliable and predictable manner. Due to the seriousness and breadth of the need, the conduct and administration of CRAN should draw influence from the worldwide community that CRAN serves.
+Because of its success, CRAN has become a fundamental global resource, not only for independent researchers, but also for large organizations across academia, government, and industry, all of whom depend on the ability to contribute packages in a reliable and predictable manner. Due to the seriousness and breadth of the need, it is right and proper for the worldwide community that CRAN serves to influence the conduct and administration of CRAN.
 
 We, the undersigned R community members, are unified in our concern that CRAN is struggling to provide a consistent experience for contributors.
 
-New criteria and policies are sometimes introduced without enough notice or documentation for contributors to follow, and enforcement practices can be discourteous and severe. Contributors are experiencing ambiguity and disruption, leaving them, along with some CRAN administrators, frustrated and discouraged. 
+The CRAN Repository Policy omits some criteria routinely used to review submissions, new criteria are sometimes introduced without notice, and enforcement practices can be discourteous and severe. Contributors are experiencing ambiguity and disruption, leaving them, along with some CRAN administrators, frustrated and discouraged.
 
-Compelled to adapt, contributors are reluctantly adopting harmful shortcuts to reduce exposure to CRAN's policies and checks, such as skipping all tests and examples on CRAN. This not only undermines CRAN's check system but also the R language itself since CRAN checks are used to validate core changes. And the ambiguity in requirements adds to the workload of CRAN administrators as well as contributors.
+In order to adapt, contributors are reluctantly adopting harmful shortcuts to reduce exposure to CRAN's policies and checks, such as skipping all tests and examples on CRAN. This not only undermines CRAN's check system but also the R language itself since CRAN checks are used to validate core changes. And the ambiguity in requirements adds to the workload of CRAN administrators as well as contributors.
 
 To reverse these trends, we are petitioning CRAN for reform. We request measures that:
 
