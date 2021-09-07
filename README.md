@@ -1,6 +1,8 @@
 # cran_change.org
 
-This is a petition calling for CRAN reform.
+This is a draft petition calling for CRAN reform.
+
+The petition launch has been shelved in favour of a collaborative route facilitated by the RConsortium and Linux Foundation. This has lead to the creation of a new RCosortium R repositories working group: https://github.com/RConsortium/wg-r-repositories
 
 
 * [Draft 1](https://github.com/cranchange/cran_change.org/tree/e0352a4be5f8e211d1bd4cc6cbb25e36aa3e3f2b) was put out for community feedback using a [Google form](https://forms.gle/iS5UFnv3yTtW6Dzg9) that received 13 responses. It also attracted feedback in an [issue thread](https://github.com/cranchange/cran_change.org/issues/19)
